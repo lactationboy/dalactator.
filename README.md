@@ -23,10 +23,16 @@
 </p>
 
 #
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=45&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=Interests">
-</p>
+<marquee behavior="scroll" direction="left" scrollamount="6">
+  <span style="font-family: 'Comic Sans MS', cursive; font-size: 24px; color: red;">
+    interests!!!
+  </span>
+</marquee>
+
+</div>
+
 
 #
 <details>
