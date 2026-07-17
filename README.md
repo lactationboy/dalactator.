@@ -53,3 +53,15 @@ I am sweet and a little bit naughty. I am one of the few clinically proven aphro
 
 </div>
 </details>
+<p align="center">
+
+<img src="./assets/buttons/made-with-love.gif">
+<img src="./assets/buttons/best-viewed.gif">
+
+</p>
+
+<p align="center">
+<img src="https://i.imgur.com/8M8ZK9P.gif">
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff69b4">
