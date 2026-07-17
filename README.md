@@ -9,33 +9,10 @@
 
 #
 
-
-<style>
-flower
-</style>
 <div style="float: ; max-height: 300px; position: fixed; left: 1px; bottom: 10px; z-index: 200;"><img src="https://i.ibb.co/SdmjhXL/Flowerdripdrops.gif"/></div>
-
-
-/*YOU CAN REMOVE THIS FOR A MORE.. NOSTALGIC LOOK.*/
-body::before {
-content: " ";
-display: block;
-position: fixed;
-top: 0;
-left: 0;
-bottom: 0;
-right: 0;
-background: linear-gradient(rgba(18, 20, 20, 0) 50%, rgba(0, 0, 0, 0.25) 50%), linear-gradient(90deg, white, white, black);
-z-index: 2;
-background-size: 100% 2px, 3px 100%;
-opacity: 10%;
-pointer-events: none;
-}
-</style>
 
 current fav s (I wi ll eat dem all)
 <img src="https://i.ibb.co/PZMsdx2k/SA-Amy-Hurt-1067532595.gif"/><img src="https://i.ibb.co/Xc6jcnd/cream-dance.gif"/><img src="https://i.ibb.co/XrQK7m7n/tails-pride.gif"/><img src="https://i.ibb.co/WW300kXn/d80o43b-0bd9c9ba-88ed-4f7e-9f22-b64cfcafe384-950861807.gif"/><img src="https://i.ibb.co/fd4rDDHb/dfp8v95-04721808-0a58-4d4f-bfa9-25fd8f92020a-2255352719.gif"/><img src="https://i.ibb.co/dwFCymPz/Metal-Sonic.gif"/><img src="https://i.ibb.co/21McDvrc/eggrage-eggman-eggman-angy-sonic-robotnik-sprite-bounce-4167077221.gif"/>
-<img src="https://64.media.tumblr.com/fd47ec1e3279469bb6ade80d7bcaeab7/ff2278e99704f58b-40/s75x75_c1/96c162ebba754dc02dfb6ce7e3eefc53c1c6561b.gifv"/>
 <img src="https://64.media.tumblr.com/6567e90076376bb39b0d85684e932083/d4c6879ff7b7973b-20/s1280x1920/dde2ff5791ad5aadc07682f70ca68b94afd2ecc1.gifv"/>
 <img src="https://i.ibb.co/jW419CH/51724741-SIz-Uch-ON5-Vxd-Sa-C.gif"/>
 <img src="https://i.ibb.co/2cDh31Q/51803662-mqq-KDe-TFMZfd-IW2.png"/>
