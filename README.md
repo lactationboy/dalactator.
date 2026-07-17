@@ -24,51 +24,9 @@
 
 #
 
-<svg width="700" height="160" viewBox="0 0 700 160" xmlns="http://www.w3.org/2000/svg">
-
-  <defs>
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feMerge>
-        <feMergeNode in="blur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter>
-
-    <linearGradient id="darkRed" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#ff3333"/>
-      <stop offset="45%" stop-color="#990000"/>
-      <stop offset="100%" stop-color="#250000"/>
-    </linearGradient>
-  </defs>
-
-  <g transform-origin="350 80">
-
-    <!-- zoom in and out -->
-    <animateTransform
-      attributeName="transform"
-      type="scale"
-      values="1;1.12;1"
-      dur="2.2s"
-      repeatCount="indefinite"/>
-
-    <text
-      x="350"
-      y="95"
-      text-anchor="middle"
-      font-family="Arial Black, Impact, sans-serif"
-      font-size="70"
-      font-weight="900"
-      fill="url(#darkRed)"
-      stroke="#ff0000"
-      stroke-width="1.5"
-      filter="url(#glow)">
-      Interests
-    </text>
-
-  </g>
-
-</svg>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=45&pause=1000&color=8B0000&center=true&vCenter=true&width=500&lines=Interests">
+</p>
 
 #
 <details>
