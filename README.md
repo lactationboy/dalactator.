@@ -1,38 +1,36 @@
-#
-
-<text
-  x="350"
-  y="95"
-  text-anchor="middle"
-  font-family="Arial, Helvetica, sans-serif"
-  font-size="70"
-  font-weight="900"
-  fill="url(#darkRed)"
-  stroke="#ff0000"
-  stroke-width="1.5"
-  filter="url(#glow)">
-  Interests
-</text>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=850000&width=435&lines=%F0%9D%91%94%E2%82%91%E2%82%9C+%E2%82%82+%E2%82%96%E2%82%99%E2%82%92+%F0%9D%93%AD%E1%B5%A2%E2%82%9B+%E2%99%AD%E2%82%91%E2%82%90%E1%B5%A4%E2%82%9C!;%F0%9D%93%AD+%E2%82%92%E2%82%99%E2%82%91+%E2%82%90%E2%82%99%F0%9D%93%AD+%E2%82%92%E2%82%99%E2%82%97%E1%B5%A7+%E2%82%97%E2%82%90%F0%9D%93%AC%E2%82%9C%E2%82%90%E2%82%9C%E1%B5%A2%E2%82%92%E2%82%99%E2%99%AD%E2%82%92%E1%B5%A7.;%F0%9D%93%AC%E2%82%92%E2%82%99%E2%82%99%E2%82%91%F0%9D%93%AC%E2%82%9C+%F0%9D%94%80%E1%B5%A2+%E2%82%9C+%E2%82%98%E2%82%91+%E2%99%AD%E2%82%91%E2%82%97%E2%82%92%F0%9D%94%80%2C%2C%2C+" alt="Typing SVG" />
+  <svg width="800" height="200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <!-- Gradient fill -->
+      <linearGradient id="redGradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#ff0000; stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#850000; stop-opacity:1" />
+      </linearGradient>
+
+      <!-- Glow filter -->
+      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+        <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"/>
+        <feMerge>
+          <feMergeNode in="blur"/>
+          <feMergeNode in="SourceGraphic"/>
+        </feMerge>
+      </filter>
+    </defs>
+
+    <!-- Text with Comic Sans -->
+    <text x="400" y="120"
+          text-anchor="middle"
+          font-family="Comic Sans MS, cursive"
+          font-size="70"
+          font-weight="bold"
+          fill="url(#redGradient)"
+          stroke="#000000"
+          stroke-width="2"
+          filter="url(#glow)">
+      Interests
+    </text>
+  </svg>
 </p>
-
-<p align="center">
-  <img src="https://i.ibb.co/Kc6Jk9Fn/u-https-www-starsonata-com-wiki-images-0-00-Dungeon-wormhole-anim.gif" />
-</p>
-
-#
-<div align="center">
-
-<marquee behavior="scroll" direction="left" scrollamount="6">
-  <span style="font-family: 'Comic Sans MS', cursive; font-size: 24px; color: red;">
-    interests!!!
-  </span>
-</marquee>
-
-</div>
-
 
 #
 <details>
