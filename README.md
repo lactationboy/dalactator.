@@ -6,3 +6,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Welcome!&fontSize=60&animation=twinkling&fontColor=ffffff&color=gradient" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=2500&pause=1000&color=FF0000,FF7F00,FFFF00,00FF00,0000FF,4B0082,9400D3&center=true&vCenter=true&repeat=true&width=700&lines=Welcome+to+my+GitHub!;Code.+Create.+Innovate." />
+</p>
