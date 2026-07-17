@@ -9,38 +9,6 @@
 
 #
 
-<div style="float: ; max-height: 300px; position: fixed; left: 1px; bottom: 10px; z-index: 200;"><img src="https://i.ibb.co/SdmjhXL/Flowerdripdrops.gif"/></div>
-
-current fav s (I wi ll eat dem all)
-<img src="https://i.ibb.co/PZMsdx2k/SA-Amy-Hurt-1067532595.gif"/><img src="https://i.ibb.co/Xc6jcnd/cream-dance.gif"/><img src="https://i.ibb.co/XrQK7m7n/tails-pride.gif"/><img src="https://i.ibb.co/WW300kXn/d80o43b-0bd9c9ba-88ed-4f7e-9f22-b64cfcafe384-950861807.gif"/><img src="https://i.ibb.co/fd4rDDHb/dfp8v95-04721808-0a58-4d4f-bfa9-25fd8f92020a-2255352719.gif"/><img src="https://i.ibb.co/dwFCymPz/Metal-Sonic.gif"/><img src="https://i.ibb.co/21McDvrc/eggrage-eggman-eggman-angy-sonic-robotnik-sprite-bounce-4167077221.gif"/>
-<img src="https://i.ibb.co/jW419CH/51724741-SIz-Uch-ON5-Vxd-Sa-C.gif"/>
-<img src="https://i.ibb.co/2cDh31Q/51803662-mqq-KDe-TFMZfd-IW2.png"/>
-<img src="https://i.ibb.co/JcwnPRz/d6983yx-c3d2ab0f-2b9f-4570-9465-0ea7ffc28226.gif"/>
-<img src="https://i.ibb.co/cQBL1rb/51727203-6mcnilub-KDBu-FHX.png"/>
-<img src="https://i.ibb.co/t8Wdwbk/51803926-e4c-Gdr9-TWB1y-Wn-W.png"/>
-<img src="https://i.ibb.co/c6gVT69/51724356-ya-Wx49-PTNef-NWVO.jpg"/>
-<img src="https://i.ibb.co/ryDdQDz/tumblr-ptbgowg-Mb41xzybrpo1-100.gif"/>
-<img src="https://64.media.tumblr.com/eb8c66e1ac55e27f12c0fba73f8c85ee/tumblr_psy6b5KnzB1xzybrpo2_100.gifv"/>
-<img src="https://64.media.tumblr.com/5e03fa7df21c8dd3f04470cf9ed1fdf2/tumblr_ps6jud1CCa1xzybrpo4_100.gifv"/>
-<img src="https://64.media.tumblr.com/f4eba3ece1b2168305132e3cd709aaf8/tumblr_prnocp0AZD1xzybrpo5_100.gifv"/>
-<img src="https://64.media.tumblr.com/783bfc6756f8540645213eb808e88668/tumblr_inline_pkeawh0OVr1uab25o_100.png"/>
-<img src="https://i.ibb.co/StK57SP/button.png"/>
-<img src="https://i.ibb.co/6bXnt0r/beyes.gif"/>
-<img src="https://i.ibb.co/RHgBQSV/brothings.gif"/>
-<img src="https://i.ibb.co/Fb83TTG/cheru.png"/>
-<img src="https://i.ibb.co/mq9WWJv/danppun.gif"/>
-<img src="https://i.ibb.co/yFLW7F2/1kb.gif"/>
-<img src="https://i.ibb.co/yYt7xg1/animegay.gif"/>
-<img src="https://i.ibb.co/tPMQq4c/kh-confused-memories-88x31.gif"/>
-<img src="https://i.ibb.co/fkN8rry/konata.gif"/>
-<img src="https://i.ibb.co/0Qp1ccH/monalisaoverdrive.png"/>
-<img src="https://i.ibb.co/wQVfPww/monar.png"/>
-<img src="https://i.ibb.co/Q9XVkTk/nyaabanner.gif"/>
-<img src="https://i.ibb.co/YfLcGVN/ralseismokingadart.gif"/>
-<img src="https://i.ibb.co/JrsdcF5/raspberryheaven.png"/>
-<img src="https://i.ibb.co/s6SXX58/unknown-003.png"/>
-<img src="https://i.ibb.co/WKvrWBY/stockinganarchy.png"/>
-
 <details>
   <summary>my livving creture..</summary>
 
