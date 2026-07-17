@@ -1,4 +1,19 @@
 #
+
+<text
+  x="350"
+  y="95"
+  text-anchor="middle"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="70"
+  font-weight="900"
+  fill="url(#darkRed)"
+  stroke="#ff0000"
+  stroke-width="1.5"
+  filter="url(#glow)">
+  Interests
+</text>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=850000&width=435&lines=%F0%9D%91%94%E2%82%91%E2%82%9C+%E2%82%82+%E2%82%96%E2%82%99%E2%82%92+%F0%9D%93%AD%E1%B5%A2%E2%82%9B+%E2%99%AD%E2%82%91%E2%82%90%E1%B5%A4%E2%82%9C!;%F0%9D%93%AD+%E2%82%92%E2%82%99%E2%82%91+%E2%82%90%E2%82%99%F0%9D%93%AD+%E2%82%92%E2%82%99%E2%82%97%E1%B5%A7+%E2%82%97%E2%82%90%F0%9D%93%AC%E2%82%9C%E2%82%90%E2%82%9C%E1%B5%A2%E2%82%92%E2%82%99%E2%99%AD%E2%82%92%E1%B5%A7.;%F0%9D%93%AC%E2%82%92%E2%82%99%E2%82%99%E2%82%91%F0%9D%93%AC%E2%82%9C+%F0%9D%94%80%E1%B5%A2+%E2%82%9C+%E2%82%98%E2%82%91+%E2%99%AD%E2%82%91%E2%82%97%E2%82%92%F0%9D%94%80%2C%2C%2C+" alt="Typing SVG" />
 </p>
@@ -8,6 +23,10 @@
 </p>
 
 #
+
+<p align="center">
+  <img src="./interests.svg" width="600" alt="Interests">
+</p>
 
 #
 <details>
