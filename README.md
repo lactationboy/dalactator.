@@ -13,7 +13,6 @@
 
 current fav s (I wi ll eat dem all)
 <img src="https://i.ibb.co/PZMsdx2k/SA-Amy-Hurt-1067532595.gif"/><img src="https://i.ibb.co/Xc6jcnd/cream-dance.gif"/><img src="https://i.ibb.co/XrQK7m7n/tails-pride.gif"/><img src="https://i.ibb.co/WW300kXn/d80o43b-0bd9c9ba-88ed-4f7e-9f22-b64cfcafe384-950861807.gif"/><img src="https://i.ibb.co/fd4rDDHb/dfp8v95-04721808-0a58-4d4f-bfa9-25fd8f92020a-2255352719.gif"/><img src="https://i.ibb.co/dwFCymPz/Metal-Sonic.gif"/><img src="https://i.ibb.co/21McDvrc/eggrage-eggman-eggman-angy-sonic-robotnik-sprite-bounce-4167077221.gif"/>
-<img src="https://64.media.tumblr.com/6567e90076376bb39b0d85684e932083/d4c6879ff7b7973b-20/s1280x1920/dde2ff5791ad5aadc07682f70ca68b94afd2ecc1.gifv"/>
 <img src="https://i.ibb.co/jW419CH/51724741-SIz-Uch-ON5-Vxd-Sa-C.gif"/>
 <img src="https://i.ibb.co/2cDh31Q/51803662-mqq-KDe-TFMZfd-IW2.png"/>
 <img src="https://i.ibb.co/JcwnPRz/d6983yx-c3d2ab0f-2b9f-4570-9465-0ea7ffc28226.gif"/>
