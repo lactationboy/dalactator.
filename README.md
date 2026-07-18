@@ -9,9 +9,9 @@
 
 #
 
-<table>
+<table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none; vertical-align: middle;">
       <p align="center">
         <i>I go by Lact/Haz</i><br>
         <i>he/him</i><br>
@@ -20,7 +20,7 @@
         <i>arb/pinoy breed</i>
       </p>
     </td>
-    <td>
+    <td style="border: none; vertical-align: middle;">
       <img src="https://i.ibb.co/6R4SyPWN/e92b485b-5308-449e-b8b8-e64ec5311e25-removalai-preview.png" width="200" />
     </td>
   </tr>
