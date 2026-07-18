@@ -8,26 +8,27 @@
 </p>
 
 #
-<div style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
-  <!-- Left image -->
-  <img src="https://i.ibb.co/9H6X9g9w/Twisted-Blot-Full-Render-2053587807.png" width="200" />
 
-  <!-- Center text -->
-  <div style="text-align: center;">
-    <p>
-      <i>I go by Lact/Haz</i><br>
-      <i>he/him</i><br>
-      <i>20 yro</i><br>
-      <i>full of,,, love,, joy and whimsy,,</i><br>
-      <i>arb/pinoy breed</i><br>
-      <i>⟡. ݁₊ ‿‿ •. ‿‿‿‿⸝⸝⟡. ݁₊ ‿‿ •. ‿‿‿‿⸝⸝⟡</i>
-    </p>
-  </div>
-
-  <!-- Right image -->
-  <img src="https://i.ibb.co/6R4SyPWN/e92b485b-5308-449e-b8b8-e64ec5311e25-removalai-preview.png" width="200" />
-</div>
-
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 200px; text-align: center; vertical-align: middle;">
+      <img src="https://i.ibb.co/9H6X9g9w/Twisted-Blot-Full-Render-2053587807.png" width="200" />
+    </td>
+    <td style="text-align: center; vertical-align: middle;">
+      <p>
+        <i>I go by Lact/Haz</i><br>
+        <i>he/him</i><br>
+        <i>20 yro</i><br>
+        <i>full of,,, love,, joy and whimsy,,</i><br>
+        <i>arb/pinoy breed</i><br>
+        <i>⟡. ݁₊ ‿‿ •. ‿‿‿‿⸝⸝⟡. ݁₊ ‿‿ •. ‿‿‿‿⸝⸝⟡</i>
+      </p>
+    </td>
+    <td style="width: 200px; text-align: center; vertical-align: middle;">
+      <img src="https://i.ibb.co/6R4SyPWN/e92b485b-5308-449e-b8b8-e64ec5311e25-removalai-preview.png" width="200" />
+    </td>
+  </tr>
+</table>
 
 #
 
