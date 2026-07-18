@@ -9,10 +9,9 @@
 
 #
 
-<h1 align="center">
-  <span style="color:darkred"><b>interests!!!</b></span>
-</h1>
-
+<p align="center">
+  <img src="https://i.ibb.co/Kc6Jk9Fn/u-https-www-starsonata-com-wiki-images-0-00-Dungeon-wormhole-anim.gif](https://i.ibb.co/5WKXt50k/Interests-7-18-2026.gif" />
+</p>
 
 #
 
