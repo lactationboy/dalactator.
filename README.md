@@ -9,25 +9,22 @@
 
 #
 
-<p align="center">
-  <i>I go by Lact/Haz</i>
-</p>
-<p align="center">
-  <i>he/him</i>
-</p><p align="center">
-  <i>20 yro</i>
-</p>
-<p align="center">
-  <i>full of,,, love,, joy and whimsy,,</i>
-</p>
-<p align="center">
-  <i>arb/pinoy breed</i>
-</p>
-
-<p align="right">
-  <img src="https://i.ibb.co/6R4SyPWN/e92b485b-5308-449e-b8b8-e64ec5311e25-removalai-preview.png" width="200" />
-</p>
-
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <i>I go by Lact/Haz</i><br>
+        <i>he/him</i><br>
+        <i>20 yro</i><br>
+        <i>full of,,, love,, joy and whimsy,,</i><br>
+        <i>arb/pinoy breed</i>
+      </p>
+    </td>
+    <td>
+      <img src="https://i.ibb.co/6R4SyPWN/e92b485b-5308-449e-b8b8-e64ec5311e25-removalai-preview.png" width="200" />
+    </td>
+  </tr>
+</table>
 
 #
 
