@@ -77,11 +77,11 @@ ill continu dis later am too tired 2 code BRAH zzzz
 
 <a href="https://www.theotaku.com/quizzes/view/3995/what_type_of_chao_are_you%3F"><img src="http://www.theotaku.com/guru_results/3995_Neutral_Chao.jpg" alt="What Type Of Chao Are You?"/><br/></a><a href="https://www.theotaku.com/quizzes/view/3995/what_type_of_chao_are_you%3F">What Type Of Chao Are You?</a><br/>Hosted By theOtaku.com: <a href="http://www.theotaku.com" title="Anime">Anime</a>
 
-<a href="https://www.theotaku.com/quizzes/view/4043/what_anime_flower_symbol_are_you%3F"><img src="http://www.theotaku.com/guru_results/4043_Sunflower.jpg" alt="What Anime Flower Symbol Are You?"/><br/></a><a href="https://www.theotaku.com/quizzes/view/4043/what_anime_flower_symbol_are_you%3F">What Anime Flower Symbol Are You?</a><br/>Hosted By theOtaku.com: <a href="http://www.theotaku.com" title="Anime">Anime</a>
+<a href="https://www.theotaku.com/quizzes/view/4043/what_anime_flower_symbol_are_you%3F"><img src="http://www.theotaku.com/guru_results/4043_Sunflower.jpg" alt="What Anime Flower Symbol Are You?"/><br/></a><a href="https://www.theotaku.com/quizzes/view/4043/what_anime_flower_symbol_are_you%3F">What Anime Flower Symbol Are You?</a><br/>
 
-<a href="https://www.theotaku.com/quizzes/view/4094/which_len_fits_you%3F"><img src="http://www.theotaku.com/guru_results/4094_Orange_Len.jpg" alt="Which Len fits you?"/><br/></a><a href="https://www.theotaku.com/quizzes/view/4094/which_len_fits_you%3F">Which Len fits you?</a><br/>Hosted By theOtaku.com: <a href="http://www.theotaku.com" title="Anime">Anime</a>
+<a href="https://www.theotaku.com/quizzes/view/4094/which_len_fits_you%3F"><img src="http://www.theotaku.com/guru_results/4094_Orange_Len.jpg" alt="Which Len fits you?"/><br/></a><a href="https://www.theotaku.com/quizzes/view/4094/which_len_fits_you%3F">Which Len fits you?</a><br/>
 
-<a href="https://www.theotaku.com/quizzes/view/2748/what_type_of_humor_do_you_have%3F"><img src="http://www.theotaku.com/guru_results/2748_Shameless.jpg" alt="What Type Of Humor Do You Have?"/><br/></a><a href="https://www.theotaku.com/quizzes/view/2748/what_type_of_humor_do_you_have%3F">What Type Of Humor Do You Have?</a><br/>Hosted By theOtaku.com: <a href="http://www.theotaku.com" title="Anime">Anime</a>
+<a href="https://www.theotaku.com/quizzes/view/2748/what_type_of_humor_do_you_have%3F"><img src="http://www.theotaku.com/guru_results/2748_Shameless.jpg" alt="What Type Of Humor Do You Have?"/><br/></a><a href="https://www.theotaku.com/quizzes/view/2748/what_type_of_humor_do_you_have%3F">What Type Of Humor Do You Have?</a><br/>
 
 <a href="https://www.theotaku.com/quizzes/view/3096/which_madoka_magica_girl_are_you%3F"><img src="http://www.theotaku.com/guru_results/3096_Kyouko_Sakura.jpg" alt="Which Madoka Magica Girl Are You?"/><br/></a><a href="https://www.theotaku.com/quizzes/view/3096/which_madoka_magica_girl_are_you%3F">Which Madoka Magica Girl Are You?</a><br/>
 
