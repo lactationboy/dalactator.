@@ -100,14 +100,9 @@ I am sweet and a little bit naughty. I am one of the few clinically proven aphro
 
 <img src="https://komarev.com/ghpvc/?username=lactationboy&color=850000">
 
-
 <p align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=850000&width=435&lines=%E2%82%9B%E2%82%92%E2%82%99%E1%B5%A2%F0%9D%93%AC" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=850000&width=435&lines=%E1%B4%85%F0%9D%91%A4" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=850000&width=435&lines=%E1%B4%85%E2%82%91%E2%82%97%E2%82%9C%E2%82%90%E1%B5%A3%E1%B5%A4%E2%82%99%E2%82%91" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=850000&width=435&lines=%CA%97%E1%B5%A3%E2%82%91%E2%82%91%E2%82%9A%E1%B5%A7%E2%82%9A%E2%82%90%E2%82%9B%E2%82%9C%E2%82%90" alt="Typing SVG" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=850000&width=435&lines=%E2%82%98%E2%82%97%E2%82%9A" alt="Typing SVG" />
+    ₛ₂ₙᴢ𝓬 &nbsp;&nbsp; ᴅ𝑤 &nbsp;&nbsp; ᴅₑₗₜₐᴣᴤₙₑ &nbsp;&nbsp; ʗᴣₑₑₚᴧₑ₀ₛ₀ &nbsp;&nbsp; ₘₑₙ
   </marquee>
 </p>
 
