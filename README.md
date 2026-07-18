@@ -10,8 +10,37 @@
 #
 
 <p align="center">
+  <i>I go by Lact/Haz</i>
+</p>
+<p align="center">
+  <i>arb/pinoy breed</i>
+</p>
+<p align="center">
+  <i>he/him</i>
+</p>
+
+#
+
+<p align="center">
   <img src="https://i.ibb.co/v4NSDPRM/Interests-7-18-2026.png" width="50%" />
 </p>
+<p align="center">
+  <b>Sonic</b>
+</p>
+<p align="center">
+  <b>DW</b>
+</p><p align="center">
+  <b>Deltarune</b>
+</p><p align="center">
+  <b>Creepypasta</b>
+</p>
+<p align="center">
+  <b>MLP</b>
+</p>
+<p align="center">
+  <b>[im heavily into d community of d fandoms i listed abov,, d rest of my interests r jus videogames i pley or shows i watch]</b>
+</p>
+
 
 #
 
