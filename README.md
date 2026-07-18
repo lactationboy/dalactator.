@@ -25,6 +25,19 @@
 </p>
 ill continu dis later am too tired 2 code BRAH zzzz 
 
+<p align="center">
+  <i>I go by Lact/Haz</i><br>
+  <i>he/him</i><br>
+  <i>20 yro</i><br>
+  <i>full of,,, love,, joy and whimsy,,</i><br>
+  <i>arb/pinoy breed</i>
+</p>
+
+<p align="right">
+  <img src="https://i.ibb.co/v4NSDPRM/Interests-7-18-2026.png" width="200" />
+</p>
+
+
 #
 
 <p align="center">
