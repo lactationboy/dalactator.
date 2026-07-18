@@ -8,20 +8,20 @@
 </p>
 
 #
-  <img src="https://i.ibb.co/gLCSM23y/15ffe3e8bc5c0b1bfc7b28f0391905cb.jpg" />
-
-<p align="right">
-  <img src="https://i.ibb.co/sp34QJ8D/7af61b85ae8644944a2eb3dabe3fa32e.jpg" />
-</p>
 
 <p align="center">
   <i>I go by Lact/Haz</i>
 </p>
 <p align="center">
-  <i>arb/pinoy breed</i>
+  <i>he/him</i>
+</p><p align="center">
+  <i>20 yro</i>
 </p>
 <p align="center">
-  <i>he/him</i>
+  <i>full of,,, love,, joy and whimsy,,</i>
+</p>
+<p align="center">
+  <i>arb/pinoy breed</i>
 </p>
 
 #
