@@ -56,8 +56,13 @@ ill continu dis later am too tired 2 code BRAH zzzz
 </p>
 
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?text=Sonic%20%7C%20DW%20%7C%20Deltarune%20%7C%20Creepypasta%20%7C%20MLP&color=8B0000" />
+  <img src="https://i.ibb.co/v4NSDPRM/Interests-7-18-2026.png" width="50%" />
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Arial&size=20&duration=3000&pause=1000&color=8B0000&center=true&vCenter=true&width=200&lines=Sonic;DW;Deltarune;Creepypasta;MLP" />
+</p>
+
 
 #
 
