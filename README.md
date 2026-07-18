@@ -35,9 +35,11 @@ ill continu dis later am too tired 2 code BRAH zzzz
 </p>
 <p align="center">
   <b>DW</b>
-</p><p align="center">
-  <b>Deltarune</b>
-</p><p align="center">
+</p>
+<h2 align="center">
+  <span style="color:#8B0000"><b>Deltarune</b></span>
+</h2>
+<p align="center">
   <b>Creepypasta</b>
 </p>
 <p align="center">
