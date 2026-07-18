@@ -10,7 +10,7 @@
 #
 
 <p align="center">
-  <img src="https://i.ibb.co/5WKXt50k/Interests-7-18-2026.gif" />
+  <img src="https://i.ibb.co/v4NSDPRM/Interests-7-18-2026.png" />
 </p>
 
 #
