@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <b><span style="color:#8B0000">[im heavily into d community of d fandoms i listed abov,, d rest of my interests r jus videogames i pley or shows i watch]</span></b>
+  <b><span style="color:#8B0000">[im heavily into d communities of d fandoms i listed abov,, d rest of my interests r jus videogames i pley or shows i watch]</span></b>
 </p>
 
 #
@@ -98,7 +98,7 @@ I am sweet and a little bit naughty. I am one of the few clinically proven aphro
 
 
 <p align="center">
-  <img src="https://i.ibb.co/9H6X9g9w/Twisted-Blot-Full-Render-2053587807.png" width="200" />
+  <img src="https://i.ibb.co/9H6X9g9w/Twisted-Blot-Full-Render-2053587807.png" width="100" />
 </p>
 <p align="center">
   <i>see ya later!!</i><br>
