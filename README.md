@@ -10,7 +10,7 @@
 #
 
 <p align="center">
-  <img src="https://i.ibb.co/Kc6Jk9Fn/u-https-www-starsonata-com-wiki-images-0-00-Dungeon-wormhole-anim.gif](https://i.ibb.co/5WKXt50k/Interests-7-18-2026.gif" />
+  <img src="https://i.ibb.co/5WKXt50k/Interests-7-18-2026.gif" />
 </p>
 
 #
