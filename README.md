@@ -95,3 +95,12 @@ I am sweet and a little bit naughty. I am one of the few clinically proven aphro
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=lactationboy&color=850000">
+
+
+<p align="left">
+  <img src="https://i.ibb.co/9H6X9g9w/Twisted-Blot-Full-Render-2053587807.png" width="200" />
+</p>
+<p align="center">
+  <i>see ya later!!</i><br>
+  <i>╭︵‿୨✧₊⊹☆⊹₊✧୧‿︵╮</i>
+</p>
