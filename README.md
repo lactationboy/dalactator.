@@ -55,6 +55,10 @@ ill continu dis later am too tired 2 code BRAH zzzz
   <b><span style="color:#8B0000">[im heavily into d community of d fandoms i listed abov,, d rest of my interests r jus videogames i pley or shows i watch]</span></b>
 </p>
 
+<p align="center">
+  <img src="https://svg-banners.vercel.app/api?text=Sonic%20%7C%20DW%20%7C%20Deltarune%20%7C%20Creepypasta%20%7C%20MLP&color=8B0000" />
+</p>
+
 #
 
 <details>
