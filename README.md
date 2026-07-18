@@ -81,7 +81,7 @@ ill continu dis later am too tired 2 code BRAH zzzz
 
 <a href="https://www.theotaku.com/quizzes/view/2748/what_type_of_humor_do_you_have%3F"><img src="http://www.theotaku.com/guru_results/2748_Shameless.jpg" alt="What Type Of Humor Do You Have?"/><br/></a><a href="https://www.theotaku.com/quizzes/view/2748/what_type_of_humor_do_you_have%3F">What Type Of Humor Do You Have?</a><br/>Hosted By theOtaku.com: <a href="http://www.theotaku.com" title="Anime">Anime</a>
 
-<a href="https://www.theotaku.com/quizzes/view/3096/which_madoka_magica_girl_are_you%3F"><img src="http://www.theotaku.com/guru_results/3096_Kyouko_Sakura.jpg" alt="Which Madoka Magica Girl Are You?"/><br/></a><a href="https://www.theotaku.com/quizzes/view/3096/which_madoka_magica_girl_are_you%3F">Which Madoka Magica Girl Are You?</a><br/>Hosted By theOtaku.com: <a href="http://www.theotaku.com" title="Anime">Anime</a>
+<a href="https://www.theotaku.com/quizzes/view/3096/which_madoka_magica_girl_are_you%3F"><img src="http://www.theotaku.com/guru_results/3096_Kyouko_Sakura.jpg" alt="Which Madoka Magica Girl Are You?"/><br/></a><a href="https://www.theotaku.com/quizzes/view/3096/which_madoka_magica_girl_are_you%3F">Which Madoka Magica Girl Are You?</a><br/>
 
 </p><table border="0"><tr><td>
 <a href="http://quiz.ravenblack.net/flavour.pl"><img align="LEFT" width="100" height="100" src="http://quiz.ravenblack.net/flavour/2.png" alt="What Flavour Are You? I am Chocolate Flavoured."/></a>I am <b>Chocolate</b> Flavoured.<br/><br/>
