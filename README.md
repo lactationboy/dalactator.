@@ -14,8 +14,7 @@
 </p>
 <p align="center">
   <i>he/him</i>
-</p>
-<p align="center">
+</p><p align="center">
   <i>20 yro</i>
 </p>
 <p align="center">
@@ -32,12 +31,29 @@ ill continu dis later am too tired 2 code BRAH zzzz
   <img src="https://i.ibb.co/v4NSDPRM/Interests-7-18-2026.png" width="50%" />
 </p>
 
-```diff
-- Sonic
-- DW
-- Deltarune
-- Creepypasta
-- MLP
+<p align="center">
+  <b><span style="color:#8B0000">Sonic</span></b>
+</p>
+
+<p align="center">
+  <b><span style="color:#8B0000">DW</span></b>
+</p>
+
+<p align="center">
+  <b><span style="color:#8B0000">Deltarune</span></b>
+</p>
+
+<p align="center">
+  <b><span style="color:#8B0000">Creepypasta</span></b>
+</p>
+
+<p align="center">
+  <b><span style="color:#8B0000">MLP</span></b>
+</p>
+
+<p align="center">
+  <b><span style="color:#8B0000">[im heavily into d community of d fandoms i listed abov,, d rest of my interests r jus videogames i pley or shows i watch]</span></b>
+</p>
 
 #
 
