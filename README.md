@@ -10,6 +10,7 @@
 #
 
 <p align="center">
+  <i>⟡. ݁₊ ︵︵ •. ︵︵︵︵⸝⸝⟡. ݁₊ ︵︵ •. ︵︵︵︵⸝⸝⟡</i><br>
   <i>I go by Lact/Haz</i><br>
   <i>he/him</i><br>
   <i>20 yro</i><br>
