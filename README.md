@@ -23,8 +23,6 @@
   <img src="https://i.ibb.co/6R4SyPWN/e92b485b-5308-449e-b8b8-e64ec5311e25-removalai-preview.png" width="200" />
 </p>
 
-#
-
 <p align="center">
   <img src="https://i.ibb.co/v4NSDPRM/Interests-7-18-2026.png" width="50%" />
 </p>
