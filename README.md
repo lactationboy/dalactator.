@@ -17,6 +17,10 @@
   <i>⟡. ݁₊ ‿‿ •. ‿‿‿‿⸝⸝⟡. ݁₊ ‿‿ •. ‿‿‿‿⸝⸝⟡</i>
 </p>
 
+<p align="left">
+  <img src="https://i.ibb.co/9H6X9g9w/Twisted-Blot-Full-Render-2053587807.png" width="200" />
+</p>
+
 <p align="right">
   <img src="https://i.ibb.co/6R4SyPWN/e92b485b-5308-449e-b8b8-e64ec5311e25-removalai-preview.png" width="200" />
 </p>
