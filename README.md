@@ -24,11 +24,10 @@
 
 #
 
-<div align="center">
+<h1 align="center">
+  <span style="color:darkred"><b>interests!!!</b></span>
+</h1>
 
-<strong><font color="darkred" size="7">interests!!!</font></strong>
-
-</div>
 
 #
 
