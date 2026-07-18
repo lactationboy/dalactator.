@@ -23,10 +23,9 @@
 <p align="center">
   <i>arb/pinoy breed</i>
 </p>
-ill continu dis later am too tired 2 code BRAH zzzz 
 
 <p align="right">
-  <img src="https://i.ibb.co/Lz7kKXpW/178433985645793484.png" width="200" />
+  <img src="https://i.ibb.co/6R4SyPWN/e92b485b-5308-449e-b8b8-e64ec5311e25-removalai-preview.png" width="200" />
 </p>
 
 
