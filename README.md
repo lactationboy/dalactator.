@@ -14,7 +14,8 @@
 </p>
 <p align="center">
   <i>he/him</i>
-</p><p align="center">
+</p>
+<p align="center">
   <i>20 yro</i>
 </p>
 <p align="center">
@@ -37,10 +38,6 @@ ill continu dis later am too tired 2 code BRAH zzzz
 - Deltarune
 - Creepypasta
 - MLP
-
-  <b>[im heavily into d community of d fandoms i listed abov,, d rest of my interests r jus videogames i pley or shows i watch]</b>
-</p>
-
 
 #
 
