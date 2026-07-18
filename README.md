@@ -8,8 +8,7 @@
 </p>
 
 #
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="width: 100%; display: flex; justify-content: space-between; align-items: center;">
   <!-- Left image -->
   <img src="https://i.ibb.co/9H6X9g9w/Twisted-Blot-Full-Render-2053587807.png" width="200" />
 
@@ -28,6 +27,7 @@
   <!-- Right image -->
   <img src="https://i.ibb.co/6R4SyPWN/e92b485b-5308-449e-b8b8-e64ec5311e25-removalai-preview.png" width="200" />
 </div>
+
 
 #
 
