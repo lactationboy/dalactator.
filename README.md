@@ -75,7 +75,7 @@ ill continu dis later am too tired 2 code BRAH zzzz
 
 <div style="width: 430px; height: 220px; border-color: hot-pink; border-width: 1px; border-style: dotted; color: #000000; font-size: 11px; overflow: auto;"><p>
 
-<a href="https://www.theotaku.com/quizzes/view/3995/what_type_of_chao_are_you%3F"><img src="http://www.theotaku.com/guru_results/3995_Neutral_Chao.jpg" alt="What Type Of Chao Are You?"/><br/></a><a href="https://www.theotaku.com/quizzes/view/3995/what_type_of_chao_are_you%3F">What Type Of Chao Are You?</a><br/>Hosted By theOtaku.com: <a href="http://www.theotaku.com" title="Anime">Anime</a>
+<a href="https://www.theotaku.com/quizzes/view/3995/what_type_of_chao_are_you%3F"><img src="http://www.theotaku.com/guru_results/3995_Neutral_Chao.jpg" alt="What Type Of Chao Are You?"/><br/></a><a href="https://www.theotaku.com/quizzes/view/3995/what_type_of_chao_are_you%3F">What Type Of Chao Are You?</a><br/>
 
 <a href="https://www.theotaku.com/quizzes/view/4043/what_anime_flower_symbol_are_you%3F"><img src="http://www.theotaku.com/guru_results/4043_Sunflower.jpg" alt="What Anime Flower Symbol Are You?"/><br/></a><a href="https://www.theotaku.com/quizzes/view/4043/what_anime_flower_symbol_are_you%3F">What Anime Flower Symbol Are You?</a><br/>
 
@@ -99,3 +99,15 @@ I am sweet and a little bit naughty. I am one of the few clinically proven aphro
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=lactationboy&color=850000">
+
+
+<p align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=850000&width=435&lines=%E2%82%9B%E2%82%92%E2%82%99%E1%B5%A2%F0%9D%93%AC" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=850000&width=435&lines=%E1%B4%85%F0%9D%91%A4" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=850000&width=435&lines=%E1%B4%85%E2%82%91%E2%82%97%E2%82%9C%E2%82%90%E1%B5%A3%E1%B5%A4%E2%82%99%E2%82%91" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=850000&width=435&lines=%CA%97%E1%B5%A3%E2%82%91%E2%82%91%E2%82%9A%E1%B5%A7%E2%82%9A%E2%82%90%E2%82%9B%E2%82%9C%E2%82%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=850000&width=435&lines=%E2%82%98%E2%82%97%E2%82%9A" alt="Typing SVG" />
+  </marquee>
+</p>
+
