@@ -26,11 +26,10 @@
 
 <div align="center">
 
-<h1 style="color:darkred; font-family:Arial, Helvetica, sans-serif; font-weight:bold;">
-  interests!!!
-</h1>
+<strong><font color="darkred" size="7">interests!!!</font></strong>
 
 </div>
+
 
 
 </div>
