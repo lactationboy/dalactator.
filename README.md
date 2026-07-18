@@ -29,7 +29,7 @@ ill continu dis later am too tired 2 code BRAH zzzz
 
 <p align="center">
   <img src="https://i.ibb.co/v4NSDPRM/Interests-7-18-2026.png" width="50%" />
-<p align="center">
+</p>
 
 ```diff
 - Sonic
